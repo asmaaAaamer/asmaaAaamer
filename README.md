@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **asmaa.aamer97@gmail.com**
 
+- 🌱 I'm more interested in **Promblem Solving**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UpA87prkQtdSzTrB-g32MBnsg4DsBThn/view?usp=sharing](https://drive.google.com/file/d/1UpA87prkQtdSzTrB-g32MBnsg4DsBThn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
