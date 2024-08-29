@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asma Aamer</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">Passionate about Marketing and Data analysis</h3>
 
 - 🔭 I’m currently working on **Sales&Marketing data analysis**
 
