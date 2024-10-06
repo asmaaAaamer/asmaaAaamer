@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Asma Aamer</h1>
+<h1 align="center">Hey there! 👋, I'm Asma Aamer</h1>
 <h3 align="center">Passionate about Marketing and Data analysis</h3>
 
-- 🔭 I’m currently working on **Sales&Marketing data analysis**
+- Marketing enthusiast with a passion for data-driven insights. I'm passionate about diving deep into **marketing analytics** to uncover the insights that inform strategic decisions and enhance overall marketing performance. 📊
 
-- 🌱 I’m currently learning **SQL/PowerBI**
+- key skills:
+● Data Analysis & Visualization: SQL, Looker Studio, Tableau, Power BI.
+● Marketing Analytics: Google Analytics, Insider, Adjust.
 
-- 📫 How to reach me **asmaa.aamer97@gmail.com**
+- I am dedicated to leveraging data to help businesses gain a deeper understanding of their customers and improve their marketing strategies. 🚀
 
-- 🌱 I'm more interested in **Promblem Solving**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UpA87prkQtdSzTrB-g32MBnsg4DsBThn/view?usp=sharing](https://drive.google.com/file/d/1UpA87prkQtdSzTrB-g32MBnsg4DsBThn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
