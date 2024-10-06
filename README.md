@@ -5,6 +5,7 @@
 
 - key skills:
   **Data Analysis & Visualization:** SQL, Looker Studio, Tableau, Power BI.
+  
   **Marketing Analytics:** Google Analytics, Insider, Adjust.
 
 - I am dedicated to leveraging data to help businesses gain a deeper understanding of their customers and improve their marketing strategies. 🚀
