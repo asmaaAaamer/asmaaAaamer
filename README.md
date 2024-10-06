@@ -4,8 +4,8 @@
 - Marketing enthusiast with a passion for data-driven insights. I'm passionate about diving deep into **marketing analytics** to uncover the insights that inform strategic decisions and enhance overall marketing performance. 📊
 
 - key skills:
-Data Analysis & Visualization: SQL, Looker Studio, Tableau, Power BI.
-Marketing Analytics: Google Analytics, Insider, Adjust.
+  **Data Analysis & Visualization:** SQL, Looker Studio, Tableau, Power BI.
+  **Marketing Analytics:** Google Analytics, Insider, Adjust.
 
 - I am dedicated to leveraging data to help businesses gain a deeper understanding of their customers and improve their marketing strategies. 🚀
 
