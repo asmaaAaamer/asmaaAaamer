@@ -1,6 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Asma Aamer</h1>
 <h3 align="center">Passionate about Marketing and Data analysis</h3>
 
+
 - Marketing enthusiast with a passion for data-driven insights. I'm passionate about diving deep into **marketing analytics** to uncover the insights that inform strategic decisions and enhance overall marketing performance. 📊
 
 - key skills:
