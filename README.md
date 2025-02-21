@@ -9,7 +9,7 @@
   - **Data Analysis & Visualization:** SQL, Looker Studio, Power BI  
   - **Marketing Analytics & Automation:** Google Analytics, Insider, Adjust  
 
-- I’m dedicated to helping businesses **maximize customer lifetime value** through targeted, insight-driven marketing strategies.  
+- I’m dedicated to leverage data-driven insights to optimize retention, enhance engagement, and drive business growth through marketing automation and lifecycle strategies.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
