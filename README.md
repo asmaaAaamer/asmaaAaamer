@@ -12,8 +12,8 @@ I enjoy working at the intersection of **customer behavior, data, and automation
 ## 🔧 Core Skills
 
 - **Lifecycle Marketing & Automation**  
-- **Data Analysis & Visualization:** SQL, Looker Studio, Power BI  
-- **CRM & Marketing Tools:** Google Analytics, Insider, Adjust  
+- **Data Analysis & Visualization:** SQL, Looker Studio, Power BI, MetaBase  
+- **CRM & Marketing Tools:** CleverTap, Insider, Google Analytics, Adjust  
 - **Experimentation & Optimization:** A/B testing, audience segmentation, journey refinement  
 
 ---
