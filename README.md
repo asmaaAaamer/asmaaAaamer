@@ -1,15 +1,26 @@
 <h1 align="center">Hey there! 👋, I'm Asma Aamer</h1>
-<h3 align="center">Passionate about CRM Marketing & Data analysis</h3>
+<h3 align="center">CRM Specialist | Lifecycle Marketing | Data-Driven Growth </h3>
 
-- A **growth-focused CRM & marketing specialist** passionate about leveraging **data-driven insights** to optimize customer retention, enhance user engagement, and drive business growth. 🚀  
+A CRM Strategist passionate about building smarter, data-driven lifecycle experiences that drive real growth.
 
-- I specialize in **marketing automation, lifecycle marketing, and performance analytics** to create impactful, data-backed strategies.  
+I focus on turning user insights into high-performing CRM strategies across Email, Push, WhatsApp, SMS, and In-App—improving activation, engagement, and long-term retention. With a strong foundation in experimentation, personalization, and analytics, I strive to create lifecycle programs that scale and deliver measurable impact.
 
-- **Key skills:**  
-  - **Data Analysis & Visualization:** SQL, Looker Studio, Power BI  
-  - **Marketing Analytics & Automation:** Google Analytics, Insider, Adjust  
+I enjoy working at the intersection of **customer behavior, data, and automation**, continuously testing, learning, and optimizing to make every user interaction more meaningful (and more effective).
 
-- I’m dedicated to leverage data-driven insights to optimize retention, enhance engagement, and drive business growth through marketing automation and lifecycle strategies.  
+---
+
+## 🔧 Core Skills
+
+- **Lifecycle Marketing & Automation**  
+- **Data Analysis & Visualization:** SQL, Looker Studio, Power BI  
+- **CRM & Marketing Tools:** Google Analytics, Insider, Adjust  
+- **Experimentation & Optimization:** A/B testing, audience segmentation, journey refinement  
+
+---
+
+## 🎯 My Goal
+Use data-backed CRM strategies to deliver stronger engagement, higher conversions, and sustainable business growth.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
